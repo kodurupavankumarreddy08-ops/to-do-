@@ -70,7 +70,7 @@ export default function Home() {
 
   return (
     <div className="app-container">
-      <h1>Task Master</h1>
+      <h1>Task Appp</h1>
       
       <form className="input-group" onSubmit={addTodo}>
         <input
